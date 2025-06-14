@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### `Project Link`
+Open [https://relaxed-chebakia-54a0f5.netlify.app/]   to view it in your browser.
+
 ## Available Scripts
 
 In the project directory, you can run:
